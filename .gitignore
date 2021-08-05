@@ -1,0 +1,3 @@
+/examples/**/.vs/
+/examples/**/Debug/
+/examples/**/tinyrf.h
